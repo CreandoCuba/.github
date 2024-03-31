@@ -1,4 +1,4 @@
-# Bienvenido a [Nombre de la Empresa]
+# Bienvenido a Grupo Creativo
 
 ## Acerca de Nosotros
 
