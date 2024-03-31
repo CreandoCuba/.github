@@ -27,7 +27,7 @@ En [Nombre de la Empresa], utilizamos las últimas tecnologías y herramientas p
 
 ## Cómo Trabajamos
 
-En [Nombre de la Empresa], seguimos un enfoque colaborativo y transparente en todos nuestros proyectos:
+En Grupo Creativo, seguimos un enfoque colaborativo y transparente en todos nuestros proyectos:
 
 1. Reunión Inicial: Nos reunimos con el cliente para comprender sus requisitos y objetivos.
 2. Planificación: Elaboramos un plan detallado que incluye cronogramas, presupuestos y recursos necesarios.
