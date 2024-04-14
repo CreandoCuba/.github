@@ -55,7 +55,7 @@ En Grupo Creativo, seguimos un enfoque colaborativo y transparente en todos nues
 
 ### Super Vision:
 [Backend](https://github.com/CreandoCuba/Super-Vision-Backend-ID0004)
-[Frontend](ttps://github.com/CreandoCuba/Super-Vision-Frontend-ID0004)
+[Frontend](https://github.com/CreandoCuba/Super-Vision-Frontend-ID0004)
 
 ## Contáctanos
 
