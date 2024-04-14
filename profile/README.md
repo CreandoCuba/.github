@@ -37,23 +37,23 @@ En Grupo Creativo, seguimos un enfoque colaborativo y transparente en todos nues
 
 ## Proyectos
 
-### Suite de Inteligencia Espacial para el Desarrollo Municipal
+### Suite de Inteligencia Espacial para el Desarrollo Municipal:
 [Repositorio](https://github.com/CreandoCuba/Suite-Inteligencia-Espacial-para-el-Desarrollo-Municipal)
 
-### Hospital Faustino Perez Sitio Web ID0006
+### Hospital Faustino Perez Sitio Web ID0006:
 [Documentación](https://github.com/CreandoCuba/Docs-Hospital-Faustino-Perez-Sitio-Web-ID0006)
 [Repositorio](https://github.com/CreandoCuba/Hospital-Faustino-Perez-Sitio-Web-ID0006)
 [Demo](https://github.com/CreandoCuba/hospitalfaustino.github.io)
 
-### Web del Grupo Creando
+### Web del Grupo Creando:
 [Repositorio](https://github.com/CreandoCuba/Web-Grupo-Creando-ID0019)
 [Demo](https://github.com/CreandoCuba/grupocreativo.github.io)
 
-### Universidad de Ciencias Médicas
+### Universidad de Ciencias Médicas:
 [Documentación](https://github.com/CreandoCuba/Universidad-de-Ciencias-Medicas-de-Matanzas-ID0018)
 [Repositorio](https://github.com/CreandoCuba/Doc-Universidad-de-Ciencias-Medicas-de-Matanzas-ID0018)
 
-### Super Vision
+### Super Vision:
 [Backend](https://github.com/CreandoCuba/Super-Vision-Backend-ID0004)
 [Frontend](ttps://github.com/CreandoCuba/Super-Vision-Frontend-ID0004)
 
