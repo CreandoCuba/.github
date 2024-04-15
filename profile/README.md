@@ -47,7 +47,7 @@ En Grupo Creativo, seguimos un enfoque colaborativo y transparente en todos nues
 
 ### Web del Grupo Creando:
 [Repositorio](https://github.com/CreandoCuba/Web-Grupo-Creando-ID0019)
-[Demo](https://github.com/CreandoCuba/grupocreativo.github.io)
+[Demo](https://creandocuba.github.io/grupocreativo.github.io/)
 
 ### Universidad de Ciencias Médicas:
 [Documentación](https://github.com/CreandoCuba/Universidad-de-Ciencias-Medicas-de-Matanzas-ID0018)
