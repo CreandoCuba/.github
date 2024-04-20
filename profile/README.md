@@ -63,7 +63,8 @@ Si estás interesado en trabajar con nosotros o tienes alguna pregunta, no dudes
 
 - **Sitio Web:** [www.nombreempresa.com](http://www.nombreempresa.com)
 - **Correo Electrónico:** info@nombreempresa.com
-- **Teléfono:** +1234567890
+- **Teléfono:** +53 53692707
+- - **Teléfono:** +53 54384681
 
 Estamos deseando trabajar contigo y ayudarte a llevar tu proyecto al siguiente nivel.
 
