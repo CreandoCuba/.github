@@ -61,7 +61,7 @@ En Grupo Creativo, seguimos un enfoque colaborativo y transparente en todos nues
 
 Si estás interesado en trabajar con nosotros o tienes alguna pregunta, no dudes en contactarnos:
 
-- **Red social:** [facebook](http://www.nombreempresa.com](https://www.facebook.com/profile.php?id=61554470506329)
+- **Red social:**  [Facebook](https://www.facebook.com/profile.php?id=61554470506329)
 - **Correo Electrónico:** info@nombreempresa.com
 - **Teléfono:** +53 53692707
 - - **Teléfono:** +53 54384681
