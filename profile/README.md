@@ -36,7 +36,8 @@ En Grupo Creativo, seguimos un enfoque colaborativo y transparente en todos nues
 5. Entrega y Soporte: Entregamos el proyecto al cliente y brindamos soporte continuo para cualquier consulta o problema que pueda surgir.
 
 # Proyectos
-## Proyecto Afrocuba
+
+### Proyecto Afrocuba
 [Repositorio](https://github.com/CreandoCuba/web-afroatenas)
 
 ### Suite de Inteligencia Espacial para el Desarrollo Municipal:
