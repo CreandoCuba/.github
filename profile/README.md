@@ -35,7 +35,9 @@ En Grupo Creativo, seguimos un enfoque colaborativo y transparente en todos nues
 4. Pruebas y Evaluación: Realizamos pruebas exhaustivas para garantizar la calidad y usabilidad del producto final.
 5. Entrega y Soporte: Entregamos el proyecto al cliente y brindamos soporte continuo para cualquier consulta o problema que pueda surgir.
 
-## Proyectos
+# Proyectos
+## Proyecto Afrocuba
+[Repositorio](https://github.com/CreandoCuba/web-afroatenas)
 
 ### Suite de Inteligencia Espacial para el Desarrollo Municipal:
 [Repositorio](https://github.com/CreandoCuba/Suite-Inteligencia-Espacial-para-el-Desarrollo-Municipal)
