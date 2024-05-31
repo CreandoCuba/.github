@@ -55,7 +55,6 @@ En Grupo Creativo, seguimos un enfoque colaborativo y transparente en todos nues
 ### Universidad de Ciencias Médicas:
 [Repositorio](https://github.com/CreandoCuba/Universidad-de-Ciencias-Medicas-de-Matanzas-ID0018)
 [Documentación](https://github.com/CreandoCuba/Doc-Universidad-de-Ciencias-Medicas-de-Matanzas-ID0018)
-[Demo](https://creandocuba.github.io/UCCM/)
 [New Demo](https://creandocuba.github.io/Universidad-de-Ciencias-Medicas-de-Matanzas-ID0018/)
 
 ### Super Vision:
